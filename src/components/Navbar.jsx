@@ -51,7 +51,7 @@ const Navbar = () => {
                 </div>
 
                 <div className='my-2'>
-                    <button onClick={handleWallet} className='sm:w-[170px] sm:h-[48px] px-4 py-2 rounded-lg bg-[#A02279] text-white text-xs sm:text-sm text-center' to='/'>Connect wallet</button>
+                    <button onClick={handleWallet} className='sm:w-[170px] sm:h-[38px] px-4 py-1 rounded-lg bg-[#A02279] text-white text-xs sm:text-sm text-center' to='/'>Connect wallet</button>
 
                 </div>
             </div>
